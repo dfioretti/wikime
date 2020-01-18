@@ -7,4 +7,8 @@
 
 
 - [ ] Checkboxes tho
-  [ ] Sup
+- [ ] Sup
+
+1. Lists
+2. Can be
+3. Fun
